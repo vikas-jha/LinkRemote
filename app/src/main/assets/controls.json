@@ -1,0 +1,21 @@
+{
+  "domains": [
+    {
+      "id": "FF000980",
+      "name": "Bengaluru",
+      "clusters": [
+        {
+          "id": "FF000980",
+          "name": "A402",
+          "controller": "controller",
+          "boards": [
+            {
+              "id": "000A.07E2ALAqt.0001",
+              "name": "Bed Room"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
